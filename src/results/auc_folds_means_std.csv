@@ -1,0 +1,16 @@
+source,target,fold_1,fold_2,fold_3,fold_4,fold_5,mean,std
+isic,isic,nan,nan
+isic,chest,nan,nan
+isic,pcam-middle,nan,nan
+chest,isic,nan,nan
+chest,chest,nan,nan
+chest,pcam-middle,nan,nan
+pcam-middle,isic,nan,nan
+pcam-middle,chest,nan,nan
+pcam-middle,pcam-middle,nan,nan
+pcam-small,isic,nan,nan
+pcam-small,chest,nan,nan
+pcam-small,pcam-middle,nan,nan
+kimia,isic,nan,nan
+kimia,chest,nan,nan
+kimia,pcam-middle,nan,nan

@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+tensorflow==2.5.0
+keras==2.4.3
+efficientnet==1.1.1
+matplotlib
+opencv-python==4.5.1.48
